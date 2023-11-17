@@ -1,0 +1,29 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeTrungPhong/Nodejs.git"
+  },
+  "keywords": [
+    "phongngu123"
+  ],
+  "author": "le trung phong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeTrungPhong/Nodejs/issues"
+  },
+  "homepage": "https://github.com/LeTrungPhong/Nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
